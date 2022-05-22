@@ -1,0 +1,180 @@
+.make-me-sticky {
+      position: -webkit-sticky;
+      position: sticky;
+      top: 0;
+      
+}
+
+.no-stick {
+    position: default;
+    position: default;
+    top: default;
+}
+
+.container-fluid {
+    margin-top: 0;
+    
+}
+
+.navbar-expand-md .navbar-nav .nav-link {
+    padding-right: initial;
+}
+
+a {
+    font-family: 'Roboto', sans-serif;
+}
+
+a.nav-link {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 500;
+    color: #EEEEEE;
+}
+
+#link {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 500;
+    color: #EEEEEE;
+    text-decoration: none;
+}
+
+#link:hover, link:focus {
+    color: var(--bs-nav-link-hover-color);
+  }
+
+h1 {
+    font-family: 'Roboto Slab', sans-serif;
+    font-weight: bold;
+}
+
+h2 {
+    font-family: 'Roboto Slab', sans-serif;
+    font-weight: bold;
+}
+
+h3 {
+    font-family: 'Roboto Slab', sans-serif;
+    font-weight: bold;
+}
+
+h5 {
+    font-family: 'Roboto Slab', sans-serif;
+    font-weight: bold;
+}
+
+p {
+    font-family: 'Roboto', sans-serif;
+    font-weight: bold;
+}
+
+code {
+    font-size: 18px;
+}
+
+hr {
+    border-style: none;
+    border-top-style: dotted;
+    border-color: #1D5C63;
+    border-width: 6px;
+    width: 98.6%;
+    margin: auto;
+}
+
+#side-column {
+    background-color: #393E46;
+    height: 78.9vh;
+}
+
+#footer {
+    position: fixed;
+    left: 3.125em;
+    bottom: 0.575em;
+}
+
+#list-form {
+    font-family: 'Roboto', sans-serif;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+#list-exp {
+    list-style-type: none;
+    font-family: 'Roboto', sans-serif;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+#mob-icons {
+    height: 7vh;
+}
+
+#ico-color {
+    color: #00ADB5;
+    text-decoration: none;
+}
+
+#connect {
+    margin-bottom: 0.1em;
+    text-align: center;
+    color: #00ADB5;
+}
+
+#nav-color {
+    background-color: #393E46;
+}
+
+#lightning {
+    color: #DEC20B;
+}
+
+#content-bg {
+    background-color: #EEEEEE;
+}
+
+#top-bg {
+    background-color: #C6C2BC;
+}
+
+#code-projects {
+    background-color: black;
+}
+
+.accordion-button {
+    font-family: 'Open-Sans', sans-serif;
+    font-weight: bold;
+    font-size: 22pt;
+}
+
+.accordion-body {
+    font-family: 'Open-Sans', sans-serif;
+    font-weight: bold;
+    font-size: 18px;
+}
+
+.btn-custom {
+    color: white;
+    background-color: #00ADB5 !important;
+}
+
+.btn-custom:hover {
+    color: white;
+    background-color: #008A8E !important;
+    border-color: #006163;
+}
+
+.btn-custom:active {
+    color: white;
+    background-color: #008A8E !important;
+    border-color: #006163;
+}
+
+.btn-custom:visited {
+    color: white;
+    background-color: #008A8E !important;
+    border-color: #006163;
+}
+
+.btn-custom:focus {
+    color: white;
+    background-color: #008A8E !important;
+    border-color: #006163;
+}
