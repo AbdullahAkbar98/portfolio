@@ -14,7 +14,7 @@ const Nav = () => {
           <div class="collapse navbar-collapse w-100" id="navbarSupportedContent">
             <ul class="navbar-nav w-100 d-flex flex-md-column text-center text-md-end mt-1 pe-2">
               <li>
-                <Link href="/about" className="About" class="nav-link">About Me</Link>
+                <Link href="/portfolio" className="About" class="nav-link">About Me</Link>
               </li>
               <li>
                 <Link href="/resume" className="Resume" class="nav-link">Resume</Link>
