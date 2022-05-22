@@ -9,8 +9,7 @@ import './Pages/assets/css/custom.css'
 const routing = () => {
   return (
     <div>
-        <About/>
-      <Route path='/portfolio/'>
+      <Route path='/'>
         <About/>
       </Route>
       <Route path="/projects">
