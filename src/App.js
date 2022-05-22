@@ -9,7 +9,7 @@ import './Pages/assets/css/custom.css'
 const routing = () => {
   return (
     <div>
-      <Route path="/">
+      <Route path="/about">
         <About/>
       </Route>
       <Route path="/projects">

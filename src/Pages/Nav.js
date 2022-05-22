@@ -14,13 +14,13 @@ const Nav = () => {
           <div class="collapse navbar-collapse w-100" id="navbarSupportedContent">
             <ul class="navbar-nav w-100 d-flex flex-md-column text-center text-md-end mt-1 pe-2">
               <li>
-                <Link href="/" className="About" class="nav-link">About Me</Link>
+                <Link href="/about" className="About" class="nav-link">About Me</Link>
               </li>
               <li>
-                <Link href="./resume" className="Resume" class="nav-link">Resume</Link>
+                <Link href="/resume" className="Resume" class="nav-link">Resume</Link>
               </li>
               <li>
-                <Link href="./projects" className="Projects" class="nav-link">Projects</Link>
+                <Link href="/projects" className="Projects" class="nav-link">Projects</Link>
               </li>
               <li class="d-block d-sm-block d-md-none" id="mob-icons">
                 <p id="connect">Connect</p><a href="https://www.linkedin.com/in/abdullah-akbar98" rel="noopener noreferrer" target="_blank" id="ico-color"><i class="fa-brands fa-linkedin fa-2xl"></i></a> <a href="https://github.com/AbdullahAkbar98" rel="noopener noreferrer" target="_blank" id="ico-color"><i class="fa-brands fa-github-square fa-2xl"></i></a> <i class="fa-solid fa-square-envelope fa-2xl" id="ico-color"></i>
